@@ -8,7 +8,9 @@
  - **git config --global user.name "xxxx"** cambiar la configuración del nombre del usuario "tu usuario de github"
  - **git config --global user.email "xxx"**  cambiar la configuración del email del usuario "tu email de github"
  - **git log** verificar los logs o las acciones que se han realizado y quien las ha realizado
- 
+ - **git branch -M main** escoge la rama sobre la que va a trabajar, preferiblemente cambiar la rama main y crear una solo para trabajar tu
+ - **git remote add origin "xxx"** laa url del repisitorio en la que vamos a guardar 
+ - **git push -u origin main** envia los commits guardados al repositorio 
 
 ### Comandos de Python 
  - **python -m pytest test.py** comando para ejecutar los test 
